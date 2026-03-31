@@ -41,5 +41,4 @@ A production landing page for an ACA health insurance business — responsive de
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-sliman-6a9011224/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@healtrixinsurance.com)
-[![Website](https://img.shields.io/badge/Healtrix-1a6fb5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://healtrixinsurance.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.tss@outlook.comm)
