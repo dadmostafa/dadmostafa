@@ -13,13 +13,13 @@ A full-stack web application built for ACME Inc. to manage teams, members, and a
 
 - JWT authentication with role-based access control (Admin / Viewer)
 - Full CRUD for teams, members, and monthly achievements
-- Dashboard with live stats — total teams, members, remote count
+- Dashboard with live stats - total teams, members, remote count
 - Search and filter functionality
 - Deployed to AWS S3 with Terraform infrastructure as code
 - **Stack:** React.js · Material UI · Python · FastAPI · MongoDB Atlas · AWS S3 · Terraform
 
 ### [Healtrix Insurance Hub](https://healtrixinsurance.com)
-A production landing page for an ACA health insurance business — responsive design, animated partner marquee, FAQ accordion, and contact form.
+A production landing page for an ACA health insurance business - responsive design, animated partner marquee, FAQ accordion, and contact form.
 
 - **Stack:** HTML · CSS · JavaScript · Firebase Hosting
 - **Live:** [healtrixinsurance.com](https://healtrixinsurance.com)
